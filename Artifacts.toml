@@ -1,0 +1,105 @@
+[[ADOLC]]
+arch = "aarch64"
+git-tree-sha1 = "4d29c19746cf27e28a6d68ff157ac76612944807"
+os = "macos"
+
+    [[ADOLC.download]]
+    sha256 = "140716289660bd9f3804077465cc58009763b588b614fc20880e3e7b1c52d153"
+    url = "https://github.com/TimSiebert1/ADOLC_jll.jl/releases/download/ADOLC-v1.0.0+0/ADOLC.v1.0.0.aarch64-apple-darwin.tar.gz"
+[[ADOLC]]
+arch = "aarch64"
+git-tree-sha1 = "775ae02c11ae48cecf6117171b7eea4250027d8f"
+libc = "glibc"
+os = "linux"
+
+    [[ADOLC.download]]
+    sha256 = "fde6e96582d1c7b9d07c2c807f909d809de8088ca85ee653038422bda6a8dd62"
+    url = "https://github.com/TimSiebert1/ADOLC_jll.jl/releases/download/ADOLC-v1.0.0+0/ADOLC.v1.0.0.aarch64-linux-gnu.tar.gz"
+[[ADOLC]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "2bd8dd6b10ee66c918c3b495e9ca7777674de60c"
+libc = "glibc"
+os = "linux"
+
+    [[ADOLC.download]]
+    sha256 = "15a1953f0462dbe38f271e59c2b155ba4b9230cb7688467cd06c35232b577fa9"
+    url = "https://github.com/TimSiebert1/ADOLC_jll.jl/releases/download/ADOLC-v1.0.0+0/ADOLC.v1.0.0.armv6l-linux-gnueabihf.tar.gz"
+[[ADOLC]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "a4d2462485e6504ea841c2a61d63d86eb051e067"
+libc = "glibc"
+os = "linux"
+
+    [[ADOLC.download]]
+    sha256 = "0ddc8d724672f665def1d27f95e865be1a5eec45eee56cf656cf0b9f31103ab5"
+    url = "https://github.com/TimSiebert1/ADOLC_jll.jl/releases/download/ADOLC-v1.0.0+0/ADOLC.v1.0.0.armv7l-linux-gnueabihf.tar.gz"
+[[ADOLC]]
+arch = "i686"
+git-tree-sha1 = "a9639dac17deecc9f9adf26b855733e4de8ae554"
+libc = "glibc"
+os = "linux"
+
+    [[ADOLC.download]]
+    sha256 = "965d29d4b4e7ba036a70c26bbffd02ae907477b0da4bcebd1c0f97ae34bd884a"
+    url = "https://github.com/TimSiebert1/ADOLC_jll.jl/releases/download/ADOLC-v1.0.0+0/ADOLC.v1.0.0.i686-linux-gnu.tar.gz"
+[[ADOLC]]
+arch = "i686"
+git-tree-sha1 = "94e7dc1492ff76f1f481f8fac4bba3bf9edcc549"
+os = "windows"
+
+    [[ADOLC.download]]
+    sha256 = "a94dda60cc35b99780322aa8343137f2d4749c2355aedc66c529ae77cd63a460"
+    url = "https://github.com/TimSiebert1/ADOLC_jll.jl/releases/download/ADOLC-v1.0.0+0/ADOLC.v1.0.0.i686-w64-mingw32.tar.gz"
+[[ADOLC]]
+arch = "powerpc64le"
+git-tree-sha1 = "169e4c7ec4f230a0a449d5b546f91b3a9b1401ca"
+libc = "glibc"
+os = "linux"
+
+    [[ADOLC.download]]
+    sha256 = "dba9e7cba96ca6a20c8d028194eb340f0f92721e9b4a5c77fbfbd27f6e6b8257"
+    url = "https://github.com/TimSiebert1/ADOLC_jll.jl/releases/download/ADOLC-v1.0.0+0/ADOLC.v1.0.0.powerpc64le-linux-gnu.tar.gz"
+[[ADOLC]]
+arch = "x86_64"
+git-tree-sha1 = "34548e20170a71b1ad1d2bbfc2b95c05030d2dd2"
+os = "macos"
+
+    [[ADOLC.download]]
+    sha256 = "55dea62bd416ef5fa4010819706d5ad60617f8ed2cb1e1c2e172c5a33f71a6b9"
+    url = "https://github.com/TimSiebert1/ADOLC_jll.jl/releases/download/ADOLC-v1.0.0+0/ADOLC.v1.0.0.x86_64-apple-darwin.tar.gz"
+[[ADOLC]]
+arch = "x86_64"
+git-tree-sha1 = "83bf0340f973a97a44ec8baf31832e5e28a6bd1c"
+libc = "glibc"
+os = "linux"
+
+    [[ADOLC.download]]
+    sha256 = "7d0a5eaa2f1dfe670b39997dc891eae2fbeed240e3cdc1db76cb511aea3bb63c"
+    url = "https://github.com/TimSiebert1/ADOLC_jll.jl/releases/download/ADOLC-v1.0.0+0/ADOLC.v1.0.0.x86_64-linux-gnu.tar.gz"
+[[ADOLC]]
+arch = "x86_64"
+git-tree-sha1 = "55b1a6dd81d5ba34c8f6940fd1b81bfe6791a6a2"
+libc = "musl"
+os = "linux"
+
+    [[ADOLC.download]]
+    sha256 = "d929b694456c0bdba451e5f6548b5dd12c3ab366ed4c56dd6d5790b4a58124fb"
+    url = "https://github.com/TimSiebert1/ADOLC_jll.jl/releases/download/ADOLC-v1.0.0+0/ADOLC.v1.0.0.x86_64-linux-musl.tar.gz"
+[[ADOLC]]
+arch = "x86_64"
+git-tree-sha1 = "5052652a24b3682d05823357302dea0fd3e943f0"
+os = "freebsd"
+
+    [[ADOLC.download]]
+    sha256 = "af56744cf11e725bfbb941dff7212cffa2706ab39579a2554b52a0666a9767a4"
+    url = "https://github.com/TimSiebert1/ADOLC_jll.jl/releases/download/ADOLC-v1.0.0+0/ADOLC.v1.0.0.x86_64-unknown-freebsd.tar.gz"
+[[ADOLC]]
+arch = "x86_64"
+git-tree-sha1 = "334e00e87957526981d1b17126eafd9d3e3a8d42"
+os = "windows"
+
+    [[ADOLC.download]]
+    sha256 = "6212c2ae92d7afe8df891e4fac61c9ff31d48d808805ee5089bb76c60d0f5847"
+    url = "https://github.com/TimSiebert1/ADOLC_jll.jl/releases/download/ADOLC-v1.0.0+0/ADOLC.v1.0.0.x86_64-w64-mingw32.tar.gz"
