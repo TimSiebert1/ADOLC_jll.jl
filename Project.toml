@@ -13,3 +13,5 @@ Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 [compat]
 JLLWrappers = "1.2.0"
 julia = "1.6"
+libcxxwrap_julia_jll = "0.11"
+libjulia_jll = "=1.10.7"
