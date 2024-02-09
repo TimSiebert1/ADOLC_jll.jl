@@ -195,3 +195,95 @@ os = "windows"
     [[ADOLC.download]]
     sha256 = "87eede8c4b31cd22cb204021dd759c60e8ee75f7a12de0dc3fcce369e93647b9"
     url = "https://github.com/TimSiebert1/ADOLC_jll.jl/releases/download/ADOLC-v0.0.8+0/ADOLC.v0.0.8.x86_64-w64-mingw32-julia_version+1.9.0.tar.gz"
+[[ADOLC]]
+arch = "aarch64"
+git-tree-sha1 = "607c5f575ff1e65758024a7a6fe5b4dd5b55b68b"
+julia_version = "1.10.0"
+os = "macos"
+
+    [[ADOLC.download]]
+    sha256 = "07435ed7e5bccb7b83140ecb9bb4cfad59591951ea517d38020eed0681ce57a7"
+    url = "https://github.com/TimSiebert1/ADOLC_jll.jl/releases/download/ADOLC-v0.0.9+0/ADOLC.v0.0.9.aarch64-apple-darwin-julia_version+1.10.0.tar.gz"
+[[ADOLC]]
+arch = "aarch64"
+git-tree-sha1 = "4e8604104a02c3428dde3d21c14e2bd049f96840"
+julia_version = "1.9.0"
+os = "macos"
+
+    [[ADOLC.download]]
+    sha256 = "8c358d7522c575bc70b12f2cd3f08c937e8a4bd975faab563780c7052bd79ffe"
+    url = "https://github.com/TimSiebert1/ADOLC_jll.jl/releases/download/ADOLC-v0.0.9+0/ADOLC.v0.0.9.aarch64-apple-darwin-julia_version+1.9.0.tar.gz"
+[[ADOLC]]
+arch = "i686"
+git-tree-sha1 = "450de3cda19f03428f6adcf1625e99df51f3f316"
+julia_version = "1.10.0"
+os = "windows"
+
+    [[ADOLC.download]]
+    sha256 = "8f269dad0ec23329215855d3eb5f712d92e5142877c09e3cc5de1c84430f6177"
+    url = "https://github.com/TimSiebert1/ADOLC_jll.jl/releases/download/ADOLC-v0.0.9+0/ADOLC.v0.0.9.i686-w64-mingw32-julia_version+1.10.0.tar.gz"
+[[ADOLC]]
+arch = "i686"
+git-tree-sha1 = "83eee07207296fcac2d9148e89744caf45bd69e0"
+julia_version = "1.9.0"
+os = "windows"
+
+    [[ADOLC.download]]
+    sha256 = "f29f7091700802a4ae66170b1ce418567d5f82c9ba81ff196ac8f78de0f3e9c9"
+    url = "https://github.com/TimSiebert1/ADOLC_jll.jl/releases/download/ADOLC-v0.0.9+0/ADOLC.v0.0.9.i686-w64-mingw32-julia_version+1.9.0.tar.gz"
+[[ADOLC]]
+arch = "x86_64"
+git-tree-sha1 = "a029ad5b49d85d00f2218fda1cbc183e83f6bd4e"
+julia_version = "1.10.0"
+os = "macos"
+
+    [[ADOLC.download]]
+    sha256 = "ddd1b63795d9390c101c0033d9220956e414e07b0850112a3b0a8e925dc7b43a"
+    url = "https://github.com/TimSiebert1/ADOLC_jll.jl/releases/download/ADOLC-v0.0.9+0/ADOLC.v0.0.9.x86_64-apple-darwin-julia_version+1.10.0.tar.gz"
+[[ADOLC]]
+arch = "x86_64"
+git-tree-sha1 = "8ce423da7421419656acf6d62c6b88cf1c9c0133"
+julia_version = "1.9.0"
+os = "macos"
+
+    [[ADOLC.download]]
+    sha256 = "824f51489aa8c766022dd788bd494eff11720f9ae32a8ab8d242abad9e892e81"
+    url = "https://github.com/TimSiebert1/ADOLC_jll.jl/releases/download/ADOLC-v0.0.9+0/ADOLC.v0.0.9.x86_64-apple-darwin-julia_version+1.9.0.tar.gz"
+[[ADOLC]]
+arch = "x86_64"
+git-tree-sha1 = "5b12ef2bde8b8976bfdcc52dca3f41f1865a654a"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[ADOLC.download]]
+    sha256 = "985d4a225c35b52450e7d6681b07ee786594a05a0a17a341113ad863b8469bb5"
+    url = "https://github.com/TimSiebert1/ADOLC_jll.jl/releases/download/ADOLC-v0.0.9+0/ADOLC.v0.0.9.x86_64-linux-gnu-julia_version+1.10.0.tar.gz"
+[[ADOLC]]
+arch = "x86_64"
+git-tree-sha1 = "db1118d74c1fb5da8e7e4970182c6a8134818c55"
+julia_version = "1.9.0"
+libc = "glibc"
+os = "linux"
+
+    [[ADOLC.download]]
+    sha256 = "8d598c287b8b87b4834a2262319f4c2df85d81327bb1757be3636c2551b0cdc9"
+    url = "https://github.com/TimSiebert1/ADOLC_jll.jl/releases/download/ADOLC-v0.0.9+0/ADOLC.v0.0.9.x86_64-linux-gnu-julia_version+1.9.0.tar.gz"
+[[ADOLC]]
+arch = "x86_64"
+git-tree-sha1 = "a7510f5f925f29a9e5f7e055898353ffb6eac48e"
+julia_version = "1.10.0"
+os = "windows"
+
+    [[ADOLC.download]]
+    sha256 = "ee2ad021a0af17c1f9b68ff157cb3d0080ea3d0a41d3402020fdab573bb52d7a"
+    url = "https://github.com/TimSiebert1/ADOLC_jll.jl/releases/download/ADOLC-v0.0.9+0/ADOLC.v0.0.9.x86_64-w64-mingw32-julia_version+1.10.0.tar.gz"
+[[ADOLC]]
+arch = "x86_64"
+git-tree-sha1 = "fdf016c81aa69b9467a3326db7c3951a6b22a97b"
+julia_version = "1.9.0"
+os = "windows"
+
+    [[ADOLC.download]]
+    sha256 = "7deee6e96a9724d40c962b0e5136607aaf0a45fbce7f0f1b7ec3e11030bd9634"
+    url = "https://github.com/TimSiebert1/ADOLC_jll.jl/releases/download/ADOLC-v0.0.9+0/ADOLC.v0.0.9.x86_64-w64-mingw32-julia_version+1.9.0.tar.gz"
