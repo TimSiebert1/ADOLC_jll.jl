@@ -11,7 +11,7 @@ For more details about JLL packages and how to use them, see `BinaryBuilder.jl` 
 The tarballs for `ADOLC_jll.jl` have been built from these sources:
 
 * git repository: https://github.com/coin-or/ADOL-C.git (revision: `26460017f9ed2f016d63b9e620d6146eb5d7c855`)
-* git repository: https://github.com/TimSiebert1/libadolccxx.git (revision: `cf36eb26fe5303607959478e99137a3568f42259`)
+* git repository: https://github.com/TimSiebert1/libadolccxx.git (revision: `a87c0985f73c90b73ebc16da61a335fe82a063a5`)
 
 ## Platforms
 
